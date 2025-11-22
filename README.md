@@ -13,6 +13,6 @@ Masukan Golongan Gaji
 Masukan Jam Lembur
 Selesai
 
-Source code terdapat di tugas>com>tugas>
+Source code terdapat di src>com>tugas>
 Tugas-Tuton
 Tugas Tuton Algoritma dan Pemrograman 2&3
